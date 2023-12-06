@@ -14,4 +14,4 @@ Run the following command from the terminal:
 streamlit run QuizWiz.py
 ```
 A browser tab should open for you. 
-Enter the quiz topic and the number of questions you want to generate and viola!
+Enter the quiz topic and the number of questions you want to generate and Viola!
