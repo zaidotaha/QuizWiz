@@ -1,5 +1,5 @@
 # QuizWiz
-This is a simply quiz generator tool that uses openAI API to create a simple MCQ quiz
+This is a simple quiz generator tool that uses openAI API to create a MCQ quiz based on a topic input by the user
 
 To use this app, first download the files to you local machine.
 Create a .env file, add this line 
